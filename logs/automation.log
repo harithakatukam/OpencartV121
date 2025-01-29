@@ -1,0 +1,40 @@
+18:09:49.792[main]INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+18:09:50.573[main]INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+18:09:50.579[main]INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details...
+18:09:51.881[main]INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+18:09:51.979[main]INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:10:00.981[main]INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+18:10:02.081[main]INFO  testCases.TC002_LoginTest - Clicked on MyAccount Link
+18:10:02.982[main]INFO  testCases.TC002_LoginTest - Clicked On Login Link
+18:10:02.989[main]INFO  testCases.TC002_LoginTest - Providing Login Details
+18:10:04.827[main]INFO  testCases.TC002_LoginTest - Validating MyAccount Page exists or not..
+18:23:03.080[main]DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Login\eclipse-workspace\OpencartV121\grouping.xml"
+18:23:03.442[main]INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Login\eclipse-workspace\OpencartV121\grouping.xml
+
+18:23:12.670[main]INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:23:16.171[main]INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+18:23:17.012[main]INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+18:23:17.158[main]INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details...
+18:23:18.754[main]INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+18:23:18.898[main]INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:23:28.106[main]INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+18:23:29.383[main]INFO  testCases.TC002_LoginTest - Clicked on MyAccount Link
+18:23:29.688[main]INFO  testCases.TC002_LoginTest - Clicked On Login Link
+18:23:29.726[main]INFO  testCases.TC002_LoginTest - Providing Login Details
+18:23:30.498[main]INFO  testCases.TC002_LoginTest - Validating MyAccount Page exists or not..
+18:28:27.107[main]DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Login\eclipse-workspace\OpencartV121\grouping.xml"
+18:28:27.442[main]INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Login\eclipse-workspace\OpencartV121\grouping.xml
+
+18:28:42.933[main]INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:28:46.700[main]INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+18:28:47.441[main]INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+18:28:47.448[main]INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details...
+18:28:48.952[main]INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+18:28:48.998[main]INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:28:56.935[main]INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+18:28:58.437[main]INFO  testCases.TC002_LoginTest - Clicked on MyAccount Link
+18:28:58.962[main]INFO  testCases.TC002_LoginTest - Clicked On Login Link
+18:28:58.969[main]INFO  testCases.TC002_LoginTest - Providing Login Details
+18:28:59.703[main]INFO  testCases.TC002_LoginTest - Validating MyAccount Page exists or not..
